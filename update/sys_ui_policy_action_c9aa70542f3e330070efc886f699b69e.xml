@@ -17,7 +17,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-07-18 06:36:09</sys_updated_on>
         <table>x_58872_needit_needit</table>
-        <ui_policy display_value="TestMandatory Fields">96d9f4142f3e330070efc886f699b625</ui_policy>
+        <ui_policy display_value="TestMandatory_readonly Fields">96d9f4142f3e330070efc886f699b625</ui_policy>
         <visible>true</visible>
     </sys_ui_policy_action>
 </record_update>
